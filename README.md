@@ -1,4 +1,5 @@
 #Bring and Buy
+
 Dieses Programm wurde für einen Bring&Buy gestaltet, kann aber für ähnliche Verkaufsveranstaltungen verwendet werden. Hier können mehrere Verkäufer angelegt werden und die Artikel gleichzeitig (gemischt) verkauft werden. Das einfache Bring&Buy Programm ist dafür ausgelegt, offline zu arbeiten und gleichzeitig flexibel zu sein. Die Unabhängigkeit vom Internet schließt im Vorfeld typische Probleme wie Verbindungsabbruch oder überforderte Netze aus. Auch benötigt man keine Onlineplattform, für den Benutzeraccounts angelegt werden müssen. Dies erspart Aufwand beim Datenschutz und man ist gut vor Fremdzugriffen geschützt. 
 
 Für die Durchführung eines Bring&Buys wird mindestens ein Laptop mit gültiger Excel Lizenz und ein QR Scanner benötigt, empfohlen wird die doppelte Ausstattung (einmal Verkauf, einmal Annahme + Rückgabe). 
